@@ -1,0 +1,32 @@
+/* calculator body */
+.calc{
+    width:360px;
+    margin:50px auto;
+    border:3px solid;
+}
+/* calculator display */
+#answer{
+    background-color: #e2e2e2;
+    padding: 10px;
+    font-size:35px;
+    width:335px;
+    height:45px;
+    text-align: right;
+    border:3px solid;
+} 
+/* calculator buttons */
+.button{
+     background: #333;
+     height: 60px;
+     width:90px;
+     color: white; 
+     font-size: 30px;
+     border: 1px solid black;
+
+}
+.button1{
+    width:180px;
+}
+.button2{
+    width:360px;
+} 
